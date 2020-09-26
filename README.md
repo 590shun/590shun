@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shunsuke Kogure</h1>
+<h1 align="center">Hi, I'm Shunsuke Kogure.</h1>
 <h3 align="center">Graduate Student</h3>
 
 - 🔭 I’m currently working on **Aoki Media Sensing Lab.**
