@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently studying on **Aoki Media Sensing Lab.**
 
-- 🌱 I’m currently learning **Computer Vision(Video Recognition, Fairness)**
+- 🌱 I’m currently learning **Computer Vision(Video Recognition, Fairness)**  
+     - Multi-modal Action Segmentation(Bachelor), Video Summarization(Master), Datasets and Evaluation(Master)
 
 - 📫 How to reach me **kogu102577@gmail.com**
 
